@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Ali Amjad
+# Hi there, I'm Ali Amjad
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=445&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=700&lines=AI+Developer+|+Machine+Learning+Engineer;Computer+Vision+Specialist;Generative+AI+and+LLM+Enthusiast;Data+Scientist" alt="Typing SVG" />
   <br/>
   <img src="https://img.shields.io/badge/AI_Developer-CENTAIC@PAF-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Organization Badge"/>
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 I am an AI Developer and Machine Learning Engineer passionate about turning advanced AI concepts into deployable real-world solutions.  
 Currently, I work at **CENTAIC-NASTP-Alpha**, building end-to-end computer vision pipelines, training and fine-tuning models (YOLO, CNNs, Transformers), generating synthetic datasets in Blender, and optimizing AI systems for defense and surveillance applications.  
@@ -41,23 +41,23 @@ Currently pursuing my **MS in AI & Autonomous Systems at NUST**.
   <img src="https://img.shields.io/badge/LangChain-%232AB673.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
 </p>
 
-## 🔥 Highlights
+## Highlights
 
-- 🚀 Developed **real-time intruder alert systems** with automated email notifications  
-- 🛰️ Built **satellite-based object detection pipelines** for defense use cases  
-- 🖼️ Generated **synthetic datasets** using Blender to overcome data scarcity  
-- 📊 Conducted **comparative model evaluations** for accuracy, speed, and robustness  
-- 🤖 Skilled in fine-tuning LLMs like LLAMA, CodeT5, and BART  
-- ⚡ Experience with YOLOv5/v8/v11, UNet, CNNs, ResNet, and Transformer architectures  
+-  Developed **real-time intruder alert systems** with automated email notifications  
+-  Built **satellite-based object detection pipelines** for defense use cases  
+-  Generated **synthetic datasets** using Blender to overcome data scarcity  
+-  Conducted **comparative model evaluations** for accuracy, speed, and robustness  
+- Skilled in fine-tuning LLMs like LLAMA, CodeT5, and BART  
+-  Experience with YOLOv5/v8/v11, UNet, CNNs, ResNet, and Transformer architectures  
 
-## 🌱 Current Focus
+## Current Focus
 
 - Multimodal AI Systems  
 - AI for Defense & Surveillance Applications  
 - Real-time AI Deployment & Optimization  
 - Federated Learning and Privacy-Preserving AI  
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
   <a href="mailto:aliamjad07.dev@gmail.com">
