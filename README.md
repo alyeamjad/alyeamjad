@@ -1,78 +1,85 @@
-# Hi there, I'm Ali Amjad
+# Hi, I'm Ali Amjad
+### Computer Vision Engineer | Robotics Vision | AI Systems
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=445&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=700&lines=AI+Developer+|+Machine+Learning+Engineer;Computer+Vision+Specialist;Generative+AI+and+LLM+Enthusiast;Data+Scientist" alt="Typing SVG" />
-  <br/>
-  <img src="https://img.shields.io/badge/AI_Developer-CENTAIC@PAF-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Organization Badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer;Robotics+Perception+Systems;Real-world+AI+Deployment;Edge+AI+%26+Autonomous+Systems" alt="Typing SVG" />
 </div>
 
-##  About Me
+<br>
 
-I am an AI Developer and Machine Learning Engineer passionate about turning advanced AI concepts into deployable real-world solutions.  
-Currently, I work at **CENTAIC-NASTP-Alpha**, building end-to-end computer vision pipelines, training and fine-tuning models (YOLO, CNNs, Transformers), generating synthetic datasets in Blender, and optimizing AI systems for defense and surveillance applications.  
+I’m a **Computer Vision Engineer** with hands-on experience building and deploying real-world vision systems for **robotics, surveillance, and autonomous perception**.
 
-I have experience in **Large Language Models (LLMs)**, **Generative AI**, **satellite imagery analysis**, and **real-time AI systems** for automated alerts and recognition tasks.  
-Currently pursuing my **MS in AI & Autonomous Systems at NUST**.
+I specialize in turning research-level computer vision ideas into reliable, production-ready systems under real constraints (latency, noise, limited data, and edge deployment).
+
+I also have strong hands-on experience with **ROS**, **SLAM**, and robotic perception pipelines.
+
+Currently working on **robotic perception systems** and pursuing an **MS in AI & Autonomous Systems at NUST**.
+
+---
+
+### What I Do
+
+- Design and deploy end-to-end **Computer Vision pipelines**
+- Build object detection and tracking systems (YOLO family, custom models)
+- Work on **robotic vision** (coordinate mapping, spatial alignment, perception for manipulation)
+- Strong hands-on experience with **ROS**, **SLAM** (including ORB-SLAM), and robot perception stacks
+- Create and refine datasets (real + synthetic) for robust model performance
+- Optimize models for **edge devices** (NVIDIA Jetson)
+- Apply geometric computer vision, camera models, and practical localization techniques
+
+---
+
+### Experience Highlights
+
+**AI & Computer Vision Developer — Decom Robotics LLC**  
+Working on vision systems for a robotic arm that autonomously detects and unscrews laptop components. Focused on high-precision detection, spatial reasoning, and integration with robotic control.
+
+**AI Developer — CENTAIC (NASTP-Alpha)**  
+Built multiple surveillance and defense-oriented computer vision systems, including weapon detection, satellite imagery analysis, synthetic data generation (Blender + GANs), and edge deployment on Jetson devices.
+
+---
+
+### Tech Stack
+
+**Core**  
+`Python` `C++` `OpenCV` `PyTorch` `TensorFlow` `Ultralytics YOLO`
+
+**Computer Vision**  
+Object Detection • Tracking • Segmentation • Geometric CV • Camera Models • Video Analytics
+
+**Robotics & Autonomy**  
+ROS • SLAM • ORB-SLAM • Robotic Perception • Coordinate Mapping • NVIDIA Jetson • CUDA
+
+**Others**  
+Docker • Git • Synthetic Data (Blender) • Dataset Engineering • FastAPI
+
+---
+
+### Selected Projects
+
+- **Visual SLAM & GPS Trajectory Analysis** → Implemented ORB-SLAM3 and evaluated vision-based vs GPS localization
+- **Person Detection & Alert System** → Real-time ROI-based detection with alerts and notifications
+- **Weapon Detection System** → Full pipeline from data to edge deployment using YOLOv11
+- **Satellite Imagery Object Detection** → Dataset curation + model training for defense use cases
+
+---
+
+### Currently Exploring
+
+- Multimodal perception systems
+- Tighter integration of vision with robotic control using ROS
+- Real-time optimization for autonomous systems
+- Reliable AI under real-world constraints
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-amjad-97604825a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alyeamjad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliamjad07.dev@gmail.com)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyeamjad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyeamjad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyeamjad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## ⚡ Expertise
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,keras,html,css,fastapi,docker,linux,git,blender" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-Ultralytics-blue?style=for-the-badge&logo=python&logoColor=white" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-%238FB3FF.svg?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-%232AB673.svg?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-</p>
-
-## Highlights
-
--  Developed **real-time intruder alert systems** with automated email notifications  
--  Built **satellite-based object detection pipelines** for defense use cases  
--  Generated **synthetic datasets** using Blender to overcome data scarcity  
--  Conducted **comparative model evaluations** for accuracy, speed, and robustness  
-- Skilled in fine-tuning LLMs like LLAMA, CodeT5, and BART  
--  Experience with YOLOv5/v8/v11, UNet, CNNs, ResNet, and Transformer architectures  
-
-## Current Focus
-
-- Multimodal AI Systems  
-- AI for Defense & Surveillance Applications  
-- Real-time AI Deployment & Optimization  
-- Federated Learning and Privacy-Preserving AI  
-
-##  Connect With Me
-
-<div align="center">
-  <a href="mailto:aliamjad07.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ali-amjad-97604825a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/alyeamjad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alyeamjad&style=flat-square&color=blue" alt="Profile views"/>
-  <br/>
-  <img src="https://img.shields.io/github/followers/alyeamjad?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alyeamjad&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=ffffff" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyeamjad&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=ffffff" height="160em"/>
 </div>
